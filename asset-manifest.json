@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.57269b51.css",
-    "main.js": "/static/js/main.49214fdb.js",
-    "static/js/453.6df4d024.chunk.js": "/static/js/453.6df4d024.chunk.js",
-    "static/media/pawel-czerwinski-S5iAZrTM3Lg-unsplash.jpg": "/static/media/pawel-czerwinski-S5iAZrTM3Lg-unsplash.adcf08ca062d233ea23d.jpg",
-    "static/media/PressStart2P-Regular.ttf": "/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
-    "index.html": "/index.html",
-    "static/media/NavBar_back.svg": "/static/media/NavBar_back.4d683a333b41f5aa7b76.svg",
-    "main.57269b51.css.map": "/static/css/main.57269b51.css.map",
-    "main.49214fdb.js.map": "/static/js/main.49214fdb.js.map",
-    "453.6df4d024.chunk.js.map": "/static/js/453.6df4d024.chunk.js.map"
+    "main.css": "/aa/static/css/main.68ad18b2.css",
+    "main.js": "/aa/static/js/main.f88e6243.js",
+    "static/js/453.6df4d024.chunk.js": "/aa/static/js/453.6df4d024.chunk.js",
+    "static/media/pawel-czerwinski-S5iAZrTM3Lg-unsplash.jpg": "/aa/static/media/pawel-czerwinski-S5iAZrTM3Lg-unsplash.adcf08ca062d233ea23d.jpg",
+    "static/media/PressStart2P-Regular.ttf": "/aa/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
+    "index.html": "/aa/index.html",
+    "static/media/NavBar_back.svg": "/aa/static/media/NavBar_back.4d683a333b41f5aa7b76.svg",
+    "main.68ad18b2.css.map": "/aa/static/css/main.68ad18b2.css.map",
+    "main.f88e6243.js.map": "/aa/static/js/main.f88e6243.js.map",
+    "453.6df4d024.chunk.js.map": "/aa/static/js/453.6df4d024.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57269b51.css",
-    "static/js/main.49214fdb.js"
+    "static/css/main.68ad18b2.css",
+    "static/js/main.f88e6243.js"
   ]
 }
