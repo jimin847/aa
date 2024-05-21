@@ -1,0 +1,14 @@
+com/example/nonogram/repository/UserRecordRepository.class
+com/example/nonogram/model/AnsBoard10.class
+com/example/nonogram/service/AnswerService.class
+com/example/nonogram/model/User.class
+com/example/nonogram/repository/AnsBoard10Repository.class
+com/example/nonogram/model/AnsBoard15.class
+com/example/nonogram/repository/UserRepository.class
+com/example/nonogram/service/UserRecordService.class
+com/example/nonogram/config/WebConfig.class
+com/example/nonogram/model/AnswerRequest.class
+com/example/nonogram/repository/PuzzleRepository.class
+com/example/nonogram/model/UserRecord.class
+com/example/nonogram/repository/AnsBoard15Repository.class
+com/example/nonogram/config/SecurityConfig.class

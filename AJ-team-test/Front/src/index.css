@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "PressStart2P-Regular";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: "PressStart2P-Regular";
+  font-weight: normal;
+  src: url("../fonts/PressStart2P-Regular.ttf") format("truetype");
+}
